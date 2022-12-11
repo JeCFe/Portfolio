@@ -1,0 +1,191 @@
+[
+  {
+    "title": "Cyber Security and Forensics",
+    "content": {
+      "title": "",
+      "content": [
+        {
+          "title": "Topics Discusses",
+          "bullets": [
+            "Threats that can be presented to an organisation or individual",
+            "Threat actors, such as state or insider",
+            "Different malware and viruses",
+            "Methods to negate such attacks or actors",
+            "Different encryption types and ways to decrypt"
+          ]
+        },
+        {
+          "title": "Assessments",
+          "content": "During the module I was required to complete 4 different practical / research exams, these were to test our knowledge and to test our ability to effectively utilise this knowledge to solve questions or decrypt the answer. While this method of assessment held 40% of the overall mark the other 60% came from a 1500-word report (10% +-) where I was required to lay out a threat landscape to an organisation. This report was to include major and small threats to this company with ways to mitigate against these threats."
+        }
+      ],
+      "buttons": [
+        {
+          "title": "tes",
+          "url": "url",
+          "desc": ""
+        }
+      ]
+    }
+  },
+  {
+    "title": "Software Development Fundermentals",
+    "content": {
+      "title": "",
+      "content": [
+        {
+          "title": "Overview",
+          "content": "The purpose of this module was an introduction to object-oriented programming using C#. The beginning of the module began with very basic teaching of how to set up a procedural project with no functions. The module then proceeded to teach the use of data types and functions. Software development was used to only teach the fundamentals of OOP languages, yet we did not touch upon polymorphism or recursion."
+        },
+        {
+          "title": "First Assesment",
+          "content": "The requirements of this assignment was to construct a game with similar rule set to the game Hammurabi. I wrote a post nuclear apocalyptic Hammurabi clone, which I named Survivors. Concepts of Survivors:",
+          "bullets": [
+            "Resources replace grain",
+            "At the beginning of each day you must decide how much resources to feed the population. Feeding too little will cause people to die by the next day, overfeeding does little to nothing",
+            "To gather resource you can send people out to gather resources in teams of 2. Sending out will result in random resources being found, or even more people being found. However, you risk losing resources or people doing so",
+            "If no people remain in the camp then game is over",
+            "You can build radiation kits, these will cure all radiation a person has. A random event can happen which can kill a percentage of the population unless they are given radiation kits",
+            "If you survive 10 days then everyone alive will be rescued and the game will end"
+          ],
+          "buttons": [
+            {
+              "title": "test",
+              "url": "test",
+              "desc": "test"
+            },
+            { "title": "test", "url": "test", "desc": "test" }
+          ]
+        },
+        {
+          "title": "Second Assessment",
+          "content": "My second assigment for the module requirements were to make a make a connect four game using windows forms as the graphical interface. For this assignment I gained 82%, only dropping marks for missing out additional features. The main additional feature that I left out of the project was to allow to play against the computer. The small feature that I left out was an animation to show the tile dropping."
+        }
+      ]
+    }
+  },
+  {
+    "title": "Website Development",
+    "content": {
+      "title": "",
+      "content": [
+        {
+          "title": "Topics Discussed",
+          "bullets": [
+            "Human-centered web development",
+            "Multimedia communications",
+            "Navigation",
+            "Information architecture ",
+            "Evaluation",
+            "HTML & CSS",
+            "Responsive frameworks",
+            "Sound and audio",
+            "Basic animations",
+            "Dynamic websites / Javascript and API’s"
+          ]
+        },
+        {
+          "title": "First Assessment",
+          "content": "The first assignement required us to make to make a website design for a leisure centre. We were given a scenario where we had to create a design with personas and wireframes to design a potential website.",
+          "buttons": [
+            {
+              "title": "test",
+              "url": "test",
+              "desc": "test"
+            }
+          ]
+        },
+        {
+          "title": "Second Assessment",
+          "content": "For the second assignment we had to develop a responsive website based on our designs from the first assignment. The hosting for this website is no longer available, but the report I developed is still available for download.",
+          "buttons": [
+            {
+              "title": "test",
+              "url": "test",
+              "desc": "test"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Intergrated Computing Devices",
+    "content": {
+      "title": "",
+      "content": [
+        {
+          "bullets": [
+            "Introduction to Linux ",
+            "Introduction to Python and Raspberry Pi",
+            "GPIO",
+            "OOP Concepts",
+            "Web Server"
+          ]
+        },
+        {
+          "title": "First Assessment",
+          "content": "For the first assignment we were required to write a Python program that could run a simple dice game and show the dice roll on LEDs controlled by GPIO pins.",
+          "buttons": [
+            {
+              "title": "test",
+              "url": "test",
+              "desc": "test"
+            }
+          ]
+        },
+        {
+          "title": "Second Assessment",
+          "content": "For the second assignment we were required to write a basic HTML locally run website that had \"buttons\" which controlled GPIO LEDs with signals being sent from a different computer.",
+          "buttons": [
+            {
+              "title": "test",
+              "url": "test",
+              "desc": "test"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "title": "Information Systems",
+    "content": {
+      "title": "",
+      "content": [
+        {
+          "bullets": [
+            "Entities and attributes ",
+            "Different types of relationships ",
+            "Link entities",
+            "Basic SQL ",
+            "Entity relationship diagrams ",
+            "Use of Access"
+          ]
+        },
+        {
+          "title": "First Assessment",
+          "content": " For the first assignment I had to make an entity relationship diagram for a police system. Then generate an Access database from the entity relationship diagram.",
+          "buttons": [
+            {
+              "title": "test",
+              "url": "test",
+              "desc": "test"
+            }
+          ]
+        },
+        {
+          "title": "Second Assessment",
+          "content": "For this module I was required to design and implements a basic GIS system. I was required to get police data for crimes in my local area and create various maps (Heat maps) to highlight certain crimes, and crime trends presented in the data. I was required to submit a PowerPoint which reported on the maps and all analysis",
+          "buttons": [
+            {
+              "title": "test",
+              "url": "test",
+              "desc": "test"
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

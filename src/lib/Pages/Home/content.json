@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Welcome!",
+    "content": [
+      {
+        "content": "Hiya, I'm Jessica. I am currently a graduate software engineer employed at BJSS, I have achieved a first class honours in Computer Science at the University of South Wales."
+      }
+    ]
+  },
+  {
+    "title": "Website Disclaimer",
+    "content": [
+      {
+        "content": "You may find some content on this website yet to be fully completed or writtien.\nAny faults found, which isn't due to the lack of content please let me known via the Contact me page. Thank you"
+      }
+    ]
+  },
+  {
+    "title": "History",
+    "content": [
+      {
+        "content": "My involvement with computer developed at a young age with my parents handing down a shared laptop between my brother. I loved tinkering with this laptop, which for better or worse, always meant me breaking this poor laptop continuously or infecting with virus. I loved trying to understand the inner workings of this computer. My parent always encouraged and engaged with my excitement with computers and pushed me to take ICT as GCSE option and then again as my focus at college, and then again with my focus at university. While most of my younger years more involved with my taking computers and other electronics apart to learn what logic boards or other hardware was inside, my later years with engulfed with learning how to make these machines do my bidding.\nA long path later I have finally graduated with honours with a computer science degree and am now employed as a software engineer; my personal projects will never end."
+      }
+    ]
+  },
+  {
+    "title": "Next Projects",
+    "content": [
+      {
+        "content": "Having started done plenty of personal projects in artifical intelligence and embedded systems I want to create my own personal system - both software and hardware. Along side this project I have started work on more robotic projects."
+      }
+    ]
+  }
+]

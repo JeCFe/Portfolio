@@ -1,6 +1,6 @@
 .text-box {
   background-color: rgba(51, 51, 51, 0.6);
-  max-width: 100%;
+  width: 100%;
   padding-right: 20px;
   padding-left: 20px;
   padding-bottom: 20px;
@@ -9,11 +9,28 @@
   border-style: solid;
   border-color: #f57d7f;
   color: white;
-
-  margin: auto;
   vertical-align: center;
 }
 
 .content-wrapper {
   margin-bottom: 30px;
+}
+
+.Found-list {
+  line-height: 80%;
+  text-align: left;
+}
+
+.InnerContent {
+  padding-top: 10px;
+  margin-top: 10px;
+
+  border-top-style: solid;
+  border-color: #f57d7f;
+
+  white-space: pre-line;
+}
+
+.InnerHeader {
+  text-align: left;
 }
