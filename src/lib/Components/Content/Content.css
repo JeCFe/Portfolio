@@ -1,0 +1,19 @@
+.text-box {
+  background-color: rgba(51, 51, 51, 0.6);
+  max-width: 100%;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  padding-top: 5px;
+  border-radius: 25px;
+  border-style: solid;
+  border-color: #f57d7f;
+  color: white;
+
+  margin: auto;
+  vertical-align: center;
+}
+
+.content-wrapper {
+  margin-bottom: 30px;
+}

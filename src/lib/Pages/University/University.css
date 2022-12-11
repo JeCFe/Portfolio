@@ -1,0 +1,21 @@
+.center {
+  padding-top: 20px;
+}
+
+.Found-list {
+  line-height: 80%;
+  list-style: none;
+}
+
+h4 {
+  margin-left: 30px;
+}
+
+.found-cont {
+  text-align: left;
+}
+
+.text {
+  margin-left: 30px;
+  color: black;
+}
